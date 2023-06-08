@@ -1,0 +1,20 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "slug": "the-perfect-difficulty",
+        "title": "The perfect difficulty",
+        "body": "I have just recently graduated with an associate's degree with a focus in programming. As I have been learning different programming languages and improving my problem-solving skills, I have been tasked with a lot of programming assignments. A programming assignment in college is basically an assignment with a checklist of things that must be included in the program. The professor must try his or her best to come up with an assignment that is based on what the students should have learned up to the present time while also giving the students the freedom that is needed to be creative. On the surface, it seems easy to come up with an assignment like this for a class, but it is all but easy. \n\nI have had many professors, all of whom have tried their best to find that difficulty sweet spot. One of my professors, Mr. Bond, was probably the most successful out of all of my professors. He is a very smart and involved professor. However, even he missed the mark on a couple of assignments. Sometimes the assignments required us students to use a skill that we had not been introduced to yet, or sometimes the assignments were way too easy and did not allow us students to use much, if any, problem-solving skills. \n\nThis challenge for professors can be extended beyond school. For example, right now I am somewhat experiencing what the professors were dealing with. I am at a point where I do not have a clear schedule guiding me like I did in college. Since I need to continue to develop my skills and learn as much as possible, I must guide myself. I am creating things on my own without anyone's input or feedback. I am essentially creating programming assignments just like my professors did for me. The main difference is that I know what I know and I am free to use whatever I want. Even though I have the advantage of knowing exactly what is in my mind, it is still very difficult to come up with an idea that is feasable for me.",
+        "tag": "thoughts",
+        "date": "May 9, 2023"
+      },
+      {
+        "id": 2,
+        "slug": "rust-helper",
+        "title": "Rust helper",
+        "body": "The basic concept of the game Rust is that you scavenge for resources, build a base to keep you and your things safe, and raid other players' bases. \n\nWhen raiding a base, you must use the equipment that is in the game, which are all explosives. There are a bunch of different materials that players can use to build their base. The different materials all have varying strength against explosives. So, when players are scouting out a base, they need to make sure they have enough explosives to get through the whole base. My Rust helper allows players to enter how many and what kind of materials they would have to get through to raid the base they are scouting. Then, it does the calculation for them and outputs what they would need to raid that base. \n\nThe creation of the outline for the Rust helper was relatively simple. I knew it would be more visually appealing as a simplistic design. I made textboxes for all of the different building materials in the game. As for the colors, Rust's color scheme is usually a dark gray primary and red secondary.",
+        "tag": "works",
+        "date": "May 9, 2023"
+      }
+    ]
+}
